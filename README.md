@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://sashanafarrier.github.io/news-homepage/)
+- Solution URL: [GitHub](https://github.com/SashanaFarrier/news-homepage)
 - Live Site URL: [Netlify](https://news-homepage-sashanafarrier.netlify.app/)
 
 ## My process
